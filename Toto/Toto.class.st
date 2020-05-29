@@ -3,7 +3,8 @@ Class {
 	#superclass : #Object,
 	#instVars : [
 		'toto',
-		'a'
+		'a',
+		'b'
 	],
 	#category : #Toto
 }
