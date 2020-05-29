@@ -4,7 +4,8 @@ Class {
 	#instVars : [
 		'toto',
 		'a',
-		'bc'
+		'bc',
+		's'
 	],
 	#category : #Toto
 }
