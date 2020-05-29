@@ -6,7 +6,8 @@ Class {
 		'a',
 		'bc',
 		'ss',
-		'asd'
+		'asd',
+		'b'
 	],
 	#category : #Toto
 }
