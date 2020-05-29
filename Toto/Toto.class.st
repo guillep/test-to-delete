@@ -2,7 +2,8 @@ Class {
 	#name : #Toto,
 	#superclass : #Object,
 	#instVars : [
-		'toto'
+		'toto',
+		'a'
 	],
 	#category : #Toto
 }
