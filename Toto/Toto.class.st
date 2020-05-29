@@ -13,3 +13,9 @@ Class {
 	],
 	#category : #Toto
 }
+
+{ #category : #accessing }
+Toto >> toto [
+
+	
+]
