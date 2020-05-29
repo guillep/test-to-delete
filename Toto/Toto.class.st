@@ -9,7 +9,8 @@ Class {
 		'asd',
 		'b',
 		'as',
-		's1'
+		's1',
+		'asodjasod'
 	],
 	#category : #Toto
 }
