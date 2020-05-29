@@ -19,5 +19,5 @@ Class {
 { #category : #accessing }
 Toto >> toto [
 
-	
+	as
 ]
