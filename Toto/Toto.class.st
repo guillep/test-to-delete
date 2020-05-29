@@ -8,7 +8,8 @@ Class {
 		'ss',
 		'asd',
 		'b',
-		'as'
+		'as',
+		's'
 	],
 	#category : #Toto
 }
